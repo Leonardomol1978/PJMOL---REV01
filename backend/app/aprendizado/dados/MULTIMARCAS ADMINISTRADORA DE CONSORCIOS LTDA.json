@@ -1,0 +1,48 @@
+{
+  "total_processados": 5,
+  "com_sucesso": 3,
+  "falha": 2,
+  "usou_ia": 3,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-06-19T14:55:25.811679"
+    },
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-06-19T17:27:36.399309"
+    },
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-06-19T17:58:11.060025"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-07-07T00:31:04.382788"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-07-21T23:09:30.103311"
+    }
+  ],
+  "campos_aprendidos": {
+    "cidade": {
+      "valor": "",
+      "layout_detectado": "cep_api"
+    },
+    "estado": {
+      "valor": "",
+      "layout_detectado": "cep_api"
+    }
+  }
+}

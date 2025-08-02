@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: pjmol-backend
+    env: python
+    region: oregon
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port 10000"
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.13
+      - key: GOOGLE_APPLICATION_CREDENTIALS
+        value: global-course-431414-a5-b3f4dd0050f2.json

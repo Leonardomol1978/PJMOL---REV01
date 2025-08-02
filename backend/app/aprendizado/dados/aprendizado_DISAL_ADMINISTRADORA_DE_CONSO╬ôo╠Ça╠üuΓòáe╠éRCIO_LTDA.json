@@ -1,0 +1,26 @@
+{
+  "total_processados": 3,
+  "com_sucesso": 3,
+  "falha": 0,
+  "usou_ia": 3,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-06-19T10:11:31"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-06-19T10:33:52"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "calculada_pela_primeira_assembleia",
+      "timestamp": "2025-06-19T10:35:08"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "total_processados": 506,
+  "com_sucesso": 501,
+  "falha": 5,
+  "usou_ia": 501,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-30T19:09:31.837715"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-30T19:47:07.869254"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-30T20:58:03.568540"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-30T21:04:49.270742"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-30T21:14:49.232557"
+    }
+  ],
+  "campos_aprendidos": {
+    "taxa_adm_percentual": {
+      "valor": 19.0,
+      "layout_detectado": "regex"
+    }
+  }
+}

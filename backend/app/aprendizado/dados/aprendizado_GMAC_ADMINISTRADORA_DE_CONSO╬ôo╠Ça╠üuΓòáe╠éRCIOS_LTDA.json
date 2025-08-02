@@ -1,0 +1,26 @@
+{
+  "total_processados": 3,
+  "com_sucesso": 3,
+  "falha": 0,
+  "usou_ia": 3,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-06-18T17:01:34"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-06-19T09:55:00"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-06-19T10:07:42"
+    }
+  ]
+}

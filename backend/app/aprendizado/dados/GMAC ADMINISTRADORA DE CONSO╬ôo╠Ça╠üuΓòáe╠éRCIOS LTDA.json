@@ -1,0 +1,56 @@
+{
+  "total_processados": 135,
+  "com_sucesso": 131,
+  "falha": 4,
+  "usou_ia": 131,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-25T20:23:32.670888"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-25T20:28:04.544033"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-25T20:29:01.548066"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-25T20:30:50.096505"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-25T21:09:03.553517"
+    }
+  ],
+  "campos_aprendidos": {
+    "data_encerramento": {
+      "valor": "13/09/2027",
+      "layout_detectado": "calculada"
+    },
+    "cidade": {
+      "valor": "SALVADOR",
+      "layout_detectado": "cep_api"
+    },
+    "estado": {
+      "valor": "BA",
+      "layout_detectado": "cep_api"
+    },
+    "taxa_adm_percentual": {
+      "valor": 21.0,
+      "layout_detectado": "regex"
+    }
+  }
+}

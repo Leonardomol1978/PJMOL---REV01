@@ -1,0 +1,20 @@
+{
+  "total_processados": 1,
+  "com_sucesso": 1,
+  "falha": 0,
+  "usou_ia": 1,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-08T14:07:43.553302"
+    }
+  ],
+  "campos_aprendidos": {
+    "taxa_adm_percentual": {
+      "valor": 14.0,
+      "layout_detectado": "regex"
+    }
+  }
+}

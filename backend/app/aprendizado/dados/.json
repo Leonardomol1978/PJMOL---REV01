@@ -1,0 +1,52 @@
+{
+  "total_processados": 30,
+  "com_sucesso": 19,
+  "falha": 11,
+  "usou_ia": 19,
+  "ultimos_5": [
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-23T18:46:07.428093"
+    },
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-23T18:46:08.752567"
+    },
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-23T18:48:21.083810"
+    },
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-08-01T20:16:42.703231"
+    },
+    {
+      "sucesso": false,
+      "usou_ia": false,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-08-01T20:19:09.832029"
+    }
+  ],
+  "campos_aprendidos": {
+    "cidade": {
+      "valor": "POTIRAGUÁ",
+      "layout_detectado": "cep_api"
+    },
+    "estado": {
+      "valor": "BA",
+      "layout_detectado": "cep_api"
+    },
+    "taxa_adm_percentual": {
+      "valor": 19.0,
+      "layout_detectado": "regex"
+    }
+  }
+}

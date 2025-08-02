@@ -1,0 +1,56 @@
+{
+  "total_processados": 70,
+  "com_sucesso": 50,
+  "falha": 20,
+  "usou_ia": 50,
+  "ultimos_5": [
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-26T21:43:39.759152"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-28T23:39:31.913592"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-28T23:57:31.932231"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-29T00:12:21.436849"
+    },
+    {
+      "sucesso": true,
+      "usou_ia": true,
+      "data_encerramento_via": "vinda_do_campo",
+      "timestamp": "2025-07-29T18:49:58.293166"
+    }
+  ],
+  "campos_aprendidos": {
+    "cidade": {
+      "valor": "",
+      "layout_detectado": "cep_api"
+    },
+    "estado": {
+      "valor": "",
+      "layout_detectado": "cep_api"
+    },
+    "taxa_adm_percentual": {
+      "valor": 14.0,
+      "layout_detectado": "regex"
+    },
+    "data_encerramento": {
+      "valor": "16/12/2032",
+      "layout_detectado": "calculada"
+    }
+  }
+}

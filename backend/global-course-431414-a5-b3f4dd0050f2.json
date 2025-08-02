@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "global-course-431414-a5",
+  "private_key_id": "b3f4dd0050f20f0b17591750c0dd05d4d29c17e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHGTziL9ydWLK0\nqvxbMTHzGu2e7C64jsjwKfo6fqFlbKvUndPSXIlEjIrKkvRmjLPMFxx1R8LGr2Yb\nTcEigvBjFmsgbj//bEJsxzpXsGY8REWli7Fg7yJeADxhhf8Nng1YMf53oGQuk6mv\nKl45y27mqELIGNoMw2/RefAIurhY9vNi5eqGFxisIWBzBngyIAS+ZSQy2ILRouXb\npQidK+zPDuwzCevfoy9S3tW9c6UwNfNtlPDv8sgyUTEr95JdUilIaPoZw5lMGNxi\nzwFFREQ4lbpmGI8TldZ/gV6KyI1mAw8vVpPUy1zXTRD7FMfzcvho0plEt7d+v+Fx\nmm2yJHWtAgMBAAECggEAP/TjAnPGhkMScQgGNdMZTRNG5sjO/1lawg9yAu1fskGU\n9yFWBJrWO498HDPVz8V+El8QNLp/Hq0Ee1vgYVI3n1T5x7qy0z23HtNm8flH9i8m\nQlYb/lwDKbggrWFKe9jcR4sTx+DdnbqwhQTyrNUlRHIjtbyJ+xSi7GMj0OIOSwFE\nB6wirXNk7iWqdFlv+46cs1/KEuppRVexPhd2z/er3xik8W6LOzFUBxHOMxHABfiy\n3Bqe7XZ6nSasamxfqQBmdfC+W2yrmKm7PIWHA+CvqxpZ0ueJ9wTGXMYPINCEHRVn\nJzrSCGFgZfl7I7+FEU/5nmFJV8CleIrqxlVwpFIhnwKBgQDvHXl0FXs8db9rQH9f\ngiNlzvN5CUf/xn5JeztWR8azob34YREQxlCpK6OAkNohYZke76zVjtqw4Vnc2hdK\nF4imRyAPZKmzJbyoKzTLxs70G6JOeVZIaLkPIFYhBJbTzDQlNHhfEMfMQ8PwNF3l\nCNqm2sa538LMnXtCaOwzBWGDQwKBgQDVKGCYo5hcC3NI4HLSUTEYMh4qfn2bVhYE\niU+PSHHzaVHmgpRA6ZActVk+RCLX872fKoyxdTnrYuxOMjCDc310/hJ0TX86ivTc\n39cD1Vh7GG7jyii4Xpj7Uzj7fxv3JdfvEssTO1kSLiJeMBqVQIR/nOg6jteb529A\nJuClKd38TwKBgQCsaY1EhaS5gJGIbRYqsLSDWUi3Uljm9aHjrAap/NEqfwpyiNL8\nTHKmuH+JWWjfPvdgliMCTaIkfikElQDL/NIcSxaz4rp2IVS50YWdFXnuC+rpOJZd\nWZ1uabuQzTVP/GLxHLdanMfj4kzq62d0mQDH5OH77nsQfND+npcJZuzb7wKBgFQ/\nvEY4Suz+fZdtVxS3kI7+qBulmSG/Wb57Qx3fxWIu23cfX1d0uUgPiXFp3te599Wk\nLK2rJrRZigqyHainCgwmq8aaJtJNv9BZDJPwTCODGbkg2w1cHl0fnKMSr0v1Ai71\nH5y/VUoxP9Y4bxlUwcnqi4MxmBh/1eHmO94r+RhTAoGAEJbBPmSK3xG1TalxIs3j\nGGy3mhj8WfzRP3sJI/jCMKeYT0oaSdYT1VFp+zaTXo9038tKiLD2qeOp4NgCUmPD\n1DqIfW/G4vL63koukyHoOo8yGANN7VviaGIt+6YovgUfufF52/jta7Kt7owaFiac\nuxDmhfm+qPxZMvEPv1z7xFY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zapsign-pdf-uploader@global-course-431414-a5.iam.gserviceaccount.com",
+  "client_id": "110334209472037133851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zapsign-pdf-uploader%40global-course-431414-a5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
